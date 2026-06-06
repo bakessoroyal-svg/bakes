@@ -3,7 +3,7 @@
 My invoice & order tracker. The whole app is one file: index.html
 
 ## Live link
-https://yourname.github.io/bakes/
+https://bakessoroyal-svg.github.io/bakes/
 
 ## How to update
 1. Replace index.html in this repo with the new version (Add file → Upload files, same name).
